@@ -5,7 +5,7 @@
   "main": "demo.js",
   "scripts": {
     "test": "jasmine",
-    "build": "babel demo.js -o demo-es5.js"
+    "build": "babel src -d lib"
   },
   "author": "SquadMinus2Plus1",
   "license": "ISC",

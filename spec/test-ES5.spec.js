@@ -1,4 +1,4 @@
-require(".././demo-es5");
+require("../lib/./demo");
 
 
 describe("Demo Test ES5", function(){

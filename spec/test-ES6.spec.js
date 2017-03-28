@@ -1,4 +1,4 @@
-require(".././demo");
+require("../src/./demo");
 
 
 describe("Demo Test ES6", function(){
