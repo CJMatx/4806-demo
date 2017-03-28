@@ -4,7 +4,7 @@
   "description": "",
   "main": "demo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jasmine",
     "build": "babel demo.js -o demo-es5.js"
   },
   "author": "SquadMinus2Plus1",
